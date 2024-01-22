@@ -10,7 +10,7 @@ terraform {
 provider "keycloak" {
     client_id     = "admin-cli"
     username      = "user"
-    password      = "bitnami"
+    password      = "xxx"
     url           = "http://localhost:81"
 }
 
